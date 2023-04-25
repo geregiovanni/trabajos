@@ -1,0 +1,462 @@
+    <script src="pagina_js.js"></script>
+    </div>
+</section>
+
+<!--encabezado-->
+<section class="section">
+<div class = "contenedor">
+     <h1 class="title">El FARO</h1>
+     <img src="https://th.bing.com/th/id/OIP.QAwRUNGVHSk4uTHTJlDcEQHaIK?w=182&h=200&c=7&r=0&o=5&pid=1.7" alt="alternatetext">
+     </div>
+ </section>
+
+ <footer class="footer">
+    <div class="content has-text-centered">
+      <p>
+        <strong> El faro </strong> por <a href="https://instagram.com/gere_giovanni?igshid=ZDdkNTZiNTM=">
+          Jovany Henríquez leal</a>. El código fuente tiene licencia
+        <a href="http://opensource.org/licenses/mit-license.php">MIT</a>. El contenido del sitio web tiene licencia 
+        <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY NC SA 4.0</a>.
+      </p>
+    </div>
+  </footer>
+
+ <!--vinculos de la pagina -->
+    <nav class="section">
+        <div class="vinculo">
+        <h1 class="subtitle">acceso rapido a sección de noticia</h1><br>
+        </div>
+    <div id = "header" class="subtitle">
+        <ul class="nav">
+         <li class="buttons"><a href="#Seccióndearticulosdenoticias"><p>Inicio</p></a></li>
+         <li class="buttons"><a href="#Seccióndedeporte"><p>Deportes</p></a></li>
+         <li class="buttons"><a href="#Seccióndenegocio"><p>Negocio</p></a></li>
+        </ul>
+    </div>
+    <form>
+        <input type="search" name="q" placeholder="Buscar">
+        <input class="boton" type="submit" value="!Buscar!">
+       
+    </form>
+
+      
+    </nav>
+    
+      
+<!--articulos de noticias -->
+<section class="section">
+      
+        <!--sección de noticia-->
+        <div class="container">
+         <h1 id="Seccióndearticulosdenoticias" class="modal-card-title">Sección de artículos de noticias</h1><br>
+        </div>
+
+         <div class="columns">
+          <div class="column is-narrow">
+            <div class="box" style="width: 300px;">
+         <div class ="col">
+
+           <h3 class="title is-4">pequeña ciudad escondida: investigación busca hallar el origen de extrañas formaciones bajo el mar de Chiloé</h3>
+                <p>En febrero, investigadores viajaron hasta Chiloé para verificar algo que había llegado hasta sus oídos: peculiares formaciones estaban escondidas en las profundidades de las aguas de la isla. 
+                 <br> Nadie las había visto en persona, solo eran conocidas por algunos
+                 buzos del sector. Ahora, las muestras están siendo analizadas en la Universidad de Chile para saber de qué están hechas y cuándo
+                 podrían haber surgido.</p>
+
+            <center><img src="https://www.latercera.com/resizer/vQo4SV9IkqVXZjEh80iFirWRryM=/900x600/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/KQJJM5MBG5BX5MM65IN75KWEGY.png" alt="Chiloé" width="75%"></center>
+
+         </div> 
+
+         </div>
+         </div>
+     
+
+    <div class="columns column">
+        <div class="box" >
+        <div class ="col">
+
+           <h3 class="title is-4">Científicos revelan que el Tiranosaurio Rex no es como lo muestran en películas como Jurassic Park</h3>
+               <p>La imagen de un depredador gigante, con los dientes protuberantes, podría no ser acertada. Un nuevo estudio afirmó que el 
+                Tiranosaurio Rex no sería tan feroz, por una característica particular.</p>
+
+                 <p>Es el depredador más importante de su época. Y es que su gigante cuerpo, su piel escamosa y, más importante,
+                  sus protuberantes y filosos dientes lo hacen una figura temida, que nos hace agradecer que se haya extinguido 
+                 antes de que llegaramos a la Tierra.<br>
+
+                 Pero esa figura que tenemos en mente de los Tiranosaurios Rex podría no ser correcta. O al menos así lo cree un 
+                 equipo internacional de científicos que reveló que las representaciones más conocidas de estos dinosaurios en películas y series son erróneas.<br>
+                    
+                 Y es que, al no tener ningún registro fotográfico real de estas criaturas, estamos obligados a percibirlos como lo ven los artistas, 
+                 cuyas imaginaciones y representaciones nos han dicho cómo pensar el aspecto de todos los dinosaurios.</p>
+                <center><img src = "https://www.latercera.com/resizer/f1ENTiAxCEnztYwSGwk_uWVPtmA=/900x600/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/OL2RE2R27VBKDHOQUZJD7NPBM4.jpg"alt="Tiranosaurio Rex " width="75%" ></center>
+
+        </div>
+        </div>
+        </div>
+    
+
+    </div>
+
+    <article class="section">
+        <div class = "col">
+
+            <h3 class="title">Bad Bunny, artista global sin un crossover al inglés, tiene ya su portada en TIME</h3>
+
+             <center><iframe style="max-width: 100%;" src="https://www.youtube.com/embed/TJyPBr3HLIc" title="Mira a Bad Bunny en la primera portada de TIME totalmente en español" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+
+            <p>Por primera vez, la revista TIME publica una portada enteramente en español y lo hace para celebrar a la estrella latina de los últimos años: Bab Bunny.</p>
+            <p>Bad Bunny es el artista más reproducido de Spotify en el mundo, otra vez
+                De hecho, sobre haberse coronado como el artista con más reproducciones en Spotify durante tres años consecutivos, respondió:<em>"La forma en que hago música es de una manera tan real. Le doy tanto amor a la música. Siempre digo que mi mamá me dio tanto amor desde ‘chiquito,’ por eso tengo tanto que dar al mundo y a los demás. Creo que mis canciones son las mismas. Le doy tanto amor a mis canciones que no se acaba".</em><br>
+                
+            <br> También reconoció el reto de mantenerse en un lugar destacado de la música y lo que representa su competitividad. "Soy muy competitivo. En todas las situaciones. Así que obviamente en la música lo soy. Pero en el buen sentido. Pero no me gusta ver a otros perder. Me gusta que todos ganen. 
+             Hay espacio para todos nosotros. Me gusta ver a los demás triunfar y tener éxito". Luego añadió que " Si veo a alguien haciendo una canción que está rompiendo, si hay una canción cabrona, yo voy hacer una canción más cabrona. Quiero hacer algo mejor. Pero no para opacarlo a él, sino porque quiero hacer algo mejor. Podemos brillar todos en el mundo."<br>
+
+             <br>A continuacción podra escuchar uno de los éxitos de cantante bad bunny.</p>
+                <audio controls>
+                    <source src="https://curd.pro/wp-content/uploads/2022/07/Bad%20Bunny%20-%20Me%20Fui%20de%20Vacaciones.mp3" type="audio/ogg">
+                    <source src="https://curd.pro/wp-content/uploads/2022/07/Bad%20Bunny%20-%20Me%20Fui%20de%20Vacaciones.ovg" type="audio/mpeg">
+                  tu navegador no es compatible con el audio.
+                  </audio>
+            
+        </div>
+    </article>
+</section>
+
+    <!--articulos de deporte-->
+    <section class="section">
+    
+        <!--sección deporte-->
+        <div class="container">
+        <h1 id="Seccióndedeporte" class="modal-card-title">Sección de deporte</h1><br>
+        </div>
+
+        <article class="section">
+        <div class = "col">
+
+            <h3 class="title">“Dos meses antes de lo planeado”: Bayer Leverkusen anuncia que Charles Aránguiz se une de manera inmediata al Inter de Porto Alegre</h3>
+           
+             <p>La noticia fue confirmada por el mismo club alemán. Charles Aranguiz dejará de manera anticipada al Bayer Leverkusen para viajar a Brasil y unirse a las filas del Inter de Porto Alegre.<br> Un fichaje que en un inicio habría tenido que darse al final de la actual temporada. Su lesión fue el motivo principal para esta salida prematura.
+                “Ha tenido un momento difícil en los últimos seis meses debido a su lesión. No le hubiera sido posible llegar a su nivel habitual en la fase final de la presente temporada. Hemos cumplido con su pedido, yendo a América del Sur dos meses antes de lo planeado para construir sistemáticamente su nuevo club en el lugar”, explicó el director general de Bayer 04 Sport, Simon Rolfes. De esta manera, el chileno se va del club al que llegó en 2015 y en donde incluso fue capitán, sin poderse despedir de los hinchas en cancha.
+             </p>
+
+            <center><img src="https://www.latercera.com/resizer/XkLGzZ-J1Y290X8LFi3d_sB6t2U=/900x600/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/LFO35537DFFJZN6WXZ25Q7PJJ4.jpg" alt="Charles Aranguiz " width="75%"></center>
+
+        </div>
+        </article>
+       
+        <article class="section">
+        <div class ="col">
+            
+            <h3 class="title">Se llevan un premio millonario: el equipo de Joaquín Niemann y Mito Pereira consigue la victoria en la tercera fecha del LIV</h3>
+
+             <p>El Torque GC festeja en la tercera fecha de la superliga y consiguen un cuantioso botín. El representante nacional que mejor estuvo en Florida, fue el de Pirque con un acumulado de -11.<br>
+             Mito Pereira vivió su primer gran fin de semana en el LIV Golf. El de Pirque se metió de llena en la pelea por la victoria, pero la remontada no alcanzó. De todas formas se despide de 
+             Orlando en la sexta posición de la tabla, marcando un saldo de once golpes bajo par y con un premio de casi un millón de dólares por la competencia individual. En equipos en cambio, la ganancia será aún mayor, ya que el Torque GC quedó primero en la tabla. </p>
+
+            <center><img src = "https://www.lorientbretagnesudtourisme.fr/uploads/2020/05/pixabay-golf-3685616.jpg" alt="tercera fecha del LIV " width="75%"></center>
+
+        </div>
+        </article>
+
+        <article class="section">
+        <div class="col">
+
+            <h3 class="title">“En estado de intoxicación”: Leandro Fernández, delantero de la U, es detenido tras chocar e intentar escaparse</h3>
+
+             <center><img src="https://www.latercera.com/resizer/gFuzsTCTyxxwawX3nHLXTjXAIFU=/900x600/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/CDMZY27HCVFMNONVIFAPKNH3ZE.jpg" alt="Leandro Fernández" width="75%"></center>
+            <p>El argentino fue detenido tras colisionar su camioneta en la Ruta Provincial 2, a la altura de la Rotonda de Alpargatas, en la ciudad de La Plata. El atacante de Universidad de Chile presentó 1.62 g/l en sangre, por lo que le cursaron un acta de infracción y le incautaron el vehículo. A pesar de esto, la Policía de PBA optó por no dejarlo preso al no haber personas lesionadas</p>
+
+        </div>
+        </article>
+    </section>
+
+    <!--articulo negocio-->
+    <section class="section">
+    
+        <!--sección negocio-->
+        <div class="container">
+        <h1 id="Seccióndenegocio" class="modal-card-title">Sección de Negocios</h1><br>
+        </div>
+
+         <article class="section">
+        <div class = "col">
+
+            <h3 class="title">Nuevo gobierno corporativo en BancoEstado: Daniel Hojman asume el liderato y Verónica Kunze la vicepresidencia</h3>
+
+             <p>Hasta hoy, Hojman llevaba un año como vicepresidente de la entidad estatal, y cuenta con amplia trayectoria en la academia. Por su parte, Kunze es economista y arribó al cargo tras dejar la subsecretaría de Turismo.</p>
+            
+             <center><img src ="https://static.emol.cl/emol50/Fotos/2023/04/03/file_20230403180113.jpg" alt="Daniel Hojman" width="75%"></center>
+            
+             <p>El Presidente Gabriel Boric, usando la facultad que le confiere la Ley Orgánica del Banco del Estado de Chile, designó este lunes a su nuevo consejo directivo, órgano colegiado encargado de la administración superior de la entidad.</p>
+             <p>De esta forma, el cargo de presidente de la institución financiera estatal lo asumirá el hasta ahora vicepresidente de la entidad, Daniel Hojman, quien llevaba un año en el cargo, y cuenta con una amplia trayectoria en la academia. 
+                En la vicepresidencia fue designada la economista, MPhil en Economía de la Universidad de Cambridge, Verónica Kunze. Por otro lado, tanto el Mandatario como el ministro de Hacienda, Mario Marcel, agradecieron a la ingeniera comercial 
+                Jessica López por su labor durante un año en esta instancia directiva. Esto, dado que López se encuentra ejerciendo su nuevo rol como ministra de Obras Públicas, tras su nombramiento el 10 de marzo pasado. Hojman cuenta con un doctorado 
+                en Economía en Harvard, es físico de profesión, formado en la Universidad de Chile, y cuenta con una amplia experiencia académica. Se ha desempeñado como académico en la Facultad de Economía y Negocios de la misma casa de estudios en la 
+                que se formó, donde también ejerció como vice rector para Asuntos Económicos y de Gestión; además, integró el Centro de Conflicto y Cohesión Social, COES; y el comité honorario del programa de PhD de Política Económica y Gobierno en la 
+                Universidad de Harvard. Sumado a esto, el flamante presidente del banco estatal fue profesor asociado de Harvard Kennedy School, y ha trabajado como consultor de proyectos en diversos organismos del Gobierno de Chile. Entre sus actividades 
+                públicas fue coordinador el programa de la candidata presidencial socialista, Paula Narváez. Por su parte, Kunze es economista y magíster de la Universidad de Chile, MPhil en Economía de la Universidad de Cambridge con estudios de Doctorado 
+                en misma Universidad. Se desempeñó como ex subsecretaria de Turismo entre marzo 2022 y marzo 2023. Anteriormente, Kunze fue gerenta de planificación y estudios de la Federación de Empresas de Turismo de Chile (Fedetur); integrante del comité 
+                de expertos de la Organización Mundial del Turismo; jefa de la división de estudios y territorio de la Subsecretaría de Economía, Fomento y Turismo; académica de la casa de estudios donde se formo e investigadora asociada en Cambridge. En 2007 
+             fue destacada con el Premio 100 Mujeres Líderes.
+            </p>
+
+        </div>
+         </article>
+         
+         <article class="section">
+        <div class ="col">
+
+         <h3 class="title">Economía chilena retoma las caídas en febrero: Imacec anota contracción de 0,5%</h3>
+
+         <p>Se trata de un dato que estuvo en línea con las estimaciones de analistas, que pronosticaban desde un incremento en torno a 0,5% hasta un retroceso de 0,8%</p>
+
+         <center><img src ="https://static.emol.cl/emol50/Fotos/2023/04/03/file_20230403084746.jpg" alt="Imacec" width="75%"></center>
+
+         <p>Una caída de 0,5% anotó en febrero de 2023 la economía chilena, al comparar con igual mes del año pasado, según informó el Indicador Mensual de Actividad 
+         Económica (Imacec) publicado esta mañana por el Banco Central. Se trata de un dato que se ubicó entre las dispares estimaciones de analistas, que pronosticaban desde un 
+         incremento en torno a 0,5% hasta un retroceso de 0,8%. Además, con esto el índice dejó atrás el resultado positivo anotado en el mes previo -cuando creció 0,4%-. De acuerdo 
+          al ente rector, el resultado del Imacec fue explicado por la caída del comercio y el resto de bienes, que fueron parcialmente compensados por el crecimiento de los servicios. 
+         Por su parte, la serie desestacionalizada disminuyó 0,3% respecto del mes precedente y cayó 0,6% en doce meses . El mes registró la misma cantidad de días hábiles que febrero 
+         de 2022. "La disminución del Imacec en términos desestacionalizados estuvo determinada por el desempeño de la minería", señaló en su informe la entidad presidida por Rosanna 
+         Costa. En tanto, el Imacec no minero presentó una disminución de 0,5% en doce meses, mientras que en términos desestacionalizados creció 0,1% respecto del mes anterior.</p>
+
+        </div>
+         </article>
+        
+         <article class="section">
+        <div class ="col">
+
+            <h3 class="title">Pacheco y problemas en Codelco: "Una compañía de cobre que se le cae la producción 10% es una que se le caela producción 10% </h3>
+
+             <p>El presidente del directorio de la estatal explicó además que para Chile es cada vez "más difícil" producir cobre, tanto por la menor ley del mineral como por el envejecimiento de las minas.</p>
+
+             <center><img src="https://static.emol.cl/emol50/Fotos/2023/04/03/file_20230403100746.jpg" alt="Pacheco y Codelco" width="75%"></center>
+
+             <p>El presidente del directorio de la Corporación Nacional del Cobre (Codelco), Máximo Pacheco, analizó esta mañana los factores detrás de la menor producción reportada 
+                por la empresa al cierre de 2022. Según los últimos registros de la estatal, al término del ejercicio previo anotó excedentes por US$2.746 millones, monto que marca 
+                un descenso de 62,9% al comparar con las ganancias obtenidas en 2021, cuando anotó US$7.394 millones. Por otro lado, la producción minera chilena alcanzó las 1.445.662 
+                toneladas métricas finas, lo que se traduce en un desplome de 10,7% en términos anualizados. Respecto de estas cifras, Pacheco sostuvo, en entrevista con Tele13 Radio, 
+                que "fue un año evidentemente muy problemático, muy acontecido para Codelco y también para la gran minería del cobre. Nuestra producción el año 2022 cayó 170.000 toneladas, 
+                eso es más de 10%. Evidentemente que una compañía que produce cobre que se le cae la producción 10% es una compañía que sufre".<br> Junto con ello explicó que se trató de "una 
+                caída que no estaba en presupuesto. Cuando yo llegué, asumí el 31 de marzo del año pasado, el presupuesto venía un poco caído, pero la información que recibí era de que 
+                se iba a cumplir el presupuesto". "Para Chile es cada día más difícil, y para Codelco, producir cobre, porque tenemos mineral con menos ley, y eso porque las minas 
+                van envejeciendo. Entonces, tú vas sacando el mineral que tiene menos ley, a más profundidad, más dureza, la condición mineralógica es otra. Todo esto afecta la producción 
+                de cobre", añadió. Por otro lado, dijo que "tenemos una estructura de costos fija que es muy importante, entonces, cuando hay menos producción, ese costo fijo hay que repartirlo 
+                en menos toneladas, y evidentemente sube el costo".
+            </p>
+
+        </div>
+         </article>
+    
+    </section>
+
+       <!--formulario iniciar sección -->
+       <section class="contacto">
+        
+        <div class="field is-grouped is-grouped-centered"><h2 class="subtitle">Inicio de sección</h2></div>
+
+        <div class="field">
+            <label class="label">Email</label>
+            <p class="control has-icons-left has-icons-right">
+              <input class="input" type="email" placeholder="Email">
+              <span class="icon is-small is-left">
+                <i class="fas fa-envelope"></i>
+              </span>
+              <span class="icon is-small is-right">
+                <i class="fas fa-check"></i>
+              </span>
+            </p>
+          </div>
+          <div class="field">
+            <label class="label">Contraseña</label>
+            <p class="control has-icons-left">
+              <input class="input" type="password" placeholder="Password">
+              <span class="icon is-small is-left">
+                <i class="fas fa-lock"></i>
+              </span>
+            </p>
+          </div>
+          <div class="field">
+            <p class="control">
+              <button class="button is-success">
+                Iniciar sección
+              </button>
+            </p>
+          </div>
+
+       </section>
+
+       <!--nuevos contacto-->
+
+        <section class="nuevocontacto">
+          <div class="field is-grouped is-grouped-centered"><h2 class="subtitle">crear nuevo contacto</h2></div>
+            
+            <div class="field">
+                <label class="label">Nombre Apellido</label>
+                <div class="control">
+                  <input class="input" type="text" placeholder="e.g Alex Smith">
+                </div>
+              </div>
+              
+                <div class="field">
+                    <label class="label">Fecha de nacimiento</label>
+                    <div class="control">
+                      <input class="input" type="text" placeholder="nn-nn-nn">
+                    </div>
+                  </div>
+                  
+                  <div class="field">
+                    <label class="label">Telefono</label>
+                    <div class="control">
+                      <input class="input" type="email" placeholder="955555555">
+                    </div>
+                  </div>
+                   
+                  <div class="field">
+                    <label class="label">Email</label>
+                    <p class="control has-icons-left has-icons-right">
+                      <input class="input" type="email" placeholder="Email">
+                      <span class="icon is-small is-left">
+                        <i class="fas fa-envelope"></i>
+                      </span>
+                      <span class="icon is-small is-right">
+                        <i class="fas fa-check"></i>
+                      </span>
+                    </p>
+                  </div>
+                  <div class="field">
+                    <label class="label">Contraseña</label>
+                    <p class="control has-icons-left">
+                      <input class="input" type="password" placeholder="Password">
+                      <span class="icon is-small is-left">
+                        <i class="fas fa-lock"></i>
+                      </span>
+                    </p>
+                  </div>
+                  
+
+                 <div class="field">
+                    <label class="label">Confirmar Contraseña</label>
+                    <p class="control has-icons-left">
+                      <input class="input" type="password" placeholder="Password">
+                      <span class="icon is-small is-left">
+                        <i class="fas fa-lock"></i>
+                      </span>
+                    </p>
+                 </div>
+                  <div class="field">
+                    <p class="control">
+                      <button class="button is-success">
+                        Confirmar Contraseña
+                      </button>
+                    </p>
+                  </div>
+                  </div>
+
+                
+                
+       
+        </section>
+           
+        <!--caja de comentario--> 
+       <section class="agregarArticulo">
+           <div class="field is-grouped is-grouped-centered"><h2 class="subtitle">Caja de comentario</h2></div>
+         
+              
+              <article class="media">
+                <figure class="media-left">
+                  <p class="image is-64x64">
+                    <img src="https://bulma.io/images/placeholders/128x128.png">
+                  </p>
+                </figure>
+                <div class="media-content">
+                  <div class="content">
+                    <p>
+                      <strong>Barbara Middleton</strong>
+                      <br>
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis porta eros lacus, nec ultricies 
+                      elit blandit non. Suspendisse pellentesque mauris sit amet dolor blandit rutrum. Nunc in tempus turpis.
+                      <br>
+                      <small><a>Like</a> · <a>Reply</a> · 3 hrs</small>
+                    </p>
+                  </div>
+              
+                  <article class="media">
+                    <figure class="media-left">
+                      <p class="image is-48x48">
+                        <img src="https://bulma.io/images/placeholders/96x96.png">
+                      </p>
+                    </figure>
+                    <div class="media-content">
+                      <div class="content">
+                        <p>
+                          <strong>Sean Brown</strong>
+                          <br>
+                          Donec sollicitudin urna eget eros malesuada sagittis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam blandit nisl a nulla sagittis, a lobortis leo feugiat.
+                          <br>
+                          <small><a>Like</a> · <a>Reply</a> · 2 hrs</small>
+                        </p>
+                      </div>
+              
+                      <article class="media">
+                        Vivamus quis semper metus, non tincidunt dolor. Vivamus in mi eu lorem cursus ullamcorper sit amet nec massa.
+                      </article>
+              
+                      <article class="media">
+                        Morbi vitae diam et purus tincidunt porttitor vel vitae augue. Praesent malesuada metus sed pharetra euismod. Cras tellus odio, tincidunt iaculis diam non, porta aliquet tortor.
+                      </article>
+                    </div>
+                  </article>
+              
+                  <article class="media">
+                    <figure class="media-left">
+                      <p class="image is-48x48">
+                        <img src="https://bulma.io/images/placeholders/96x96.png">
+                      </p>
+                    </figure>
+                    <div class="media-content">
+                      <div class="content">
+                        <p>
+                          <strong>Kayli Eunice </strong>
+                          <br>
+                          Sed convallis scelerisque mauris, non pulvinar nunc mattis vel. Maecenas varius felis sit amet magna vestibulum euismod malesuada cursus libero. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus lacinia non nisl id feugiat.
+                          <br>
+                          <small><a>Like</a> · <a>Reply</a> · 2 hrs</small>
+                        </p>
+                      </div>
+                    </div>
+                  </article>
+                </div>
+              </article>
+              
+              <article class="media">
+                <figure class="media-left">
+                  <p class="image is-64x64">
+                    <img src="https://bulma.io/images/placeholders/128x128.png">
+                  </p>
+                </figure>
+                <div class="media-content">
+                  <div class="field">
+                    <p class="control">
+                      <textarea class="textarea" placeholder="Dejar comentario..."></textarea>
+                    </p>
+                  </div>
+                  <div class="field">
+                    <p class="control">
+                      <button class="button">Dejar comentario</button>
+                    </p>
+                  </div>
+                </div>
+              </article>
+
+           <script>
+               function inserteFila(){
+                   let tblDatos= document.getElementById('seccióndearticulosnoticias').insertRow();
+                   let col1=tblDatos.insertcell(0);
+                   let col2= tblDatos.insertcell(1);
+
+                   col1.innerHTML="nueva cel"
+                   col2.innerHTML="nueva cel"
+               }
+           </script>
+           </div>
+       </section>
