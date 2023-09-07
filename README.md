@@ -470,7 +470,16 @@
                     </div>
                   </article>
 
-               
+               <script>
+                   function inserteFila(){
+                       let tblDatos= document.getElementById('seccióndearticulosnoticias').insertRow();
+                       let col1=tblDatos.insertcell(0);
+                       let col2= tblDatos.insertcell(1);
+   
+                       col1.innerHTML="nueva cel"
+                       col2.innerHTML="nueva cel"
+                   }
+               </script>
                </div>
            </section>
    
